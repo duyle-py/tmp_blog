@@ -11,7 +11,7 @@ var idx = lunr(function () {
   
   
     idx.add({
-      title: "Mahalanobis Distance",
+      title: "Efficient computation of Mahalanobis distances",
       excerpt: "\n",
       categories: [],
       tags: ["Mahalanobis"],
@@ -30,8 +30,8 @@ var store = [
     
       
       {
-        "title": "Mahalanobis Distance",
-        "url": "http://localhost:4000/math-support/",
+        "title": "Efficient computation of Mahalanobis distances",
+        "url": "http://localhost:4000/mahalanobis-distances/",
         "excerpt": "\n",
         "teaser":
           
